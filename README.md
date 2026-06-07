@@ -1,4 +1,4 @@
-# City Ride Analysis Dashboard 🚕
+# Taxi Fare Business Intelligence Dashboard 🚕
 
 ## Overview
 Interactive Power BI dashboard for taxi ride analysis.
@@ -16,3 +16,4 @@ Interactive Power BI dashboard for taxi ride analysis.
 - Power BI Desktop
 - DAX
 - Data Visualization
+- 
